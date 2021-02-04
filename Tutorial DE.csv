@@ -1,0 +1,15 @@
+Frage,Antwort A (Lösung),Answer B,Antwort C,Antwort D,Punkte,Lösungsdatei (Optional)
+Wie entkomme ich dem Vollbildmodus?,F11 oder  Escape,Taskmanager,Rechte Maus,gar nicht,50,
+Woher weiß ich welches Team dran ist?,Schriftfarbe,muss man sich merken,das weiß keiner,blinkende Animationen,50,
+Wie kann ich eigene Fragen erstellen?,"Tabelle als .csv Datei speichern
+(Wie Tutorial DE.csv)",nicht möglich,Word Dokument,42,100,
+Wie markiere ich die richtige Antwort in der .csv Datei?,immer die Erste ist Richtig,mit * markieren,mit ! Markieren,42,100,
+Wie ändere ich den Namen des Quiz?,Namen der Datei mit den Fragen ändern,F12,Erstes Feld in csv Datei ändern,42,100,
+Wie viele Punktekategorien sind möglich?,5,3,7,egal,200,
+Wie kann man die Punktekategorien wählen?,vielfache von 50,egal,vielfache von 10,vielfache von 42,200,
+Wie viele Fragen je Kategorie sind möglich?,10,5,20,egal,200,
+Kann ich eine Audiodatei als Lösung verwenden?,Ja,Nein,Nö,Geht nicht,250,solutions/demo.mp3
+Kann ich ein Video als Lösung verwenden?,Ja,Nein,Nö,Geht nicht,250,solutions/sinus.mp4
+Kann ich ein Bild als Lösung verwenden?,Ja,Nein,Nö,Geht nicht,250,solutions/png_example.png
+Muss ich ein bestimmtes Bildformat verwenden?,Nein,Klar,Nur 16:9,Ja,250,solutions/square.jpg
+Wo befinden sich die Lösungsdateien?,in CSV Datei angegebener Pfad,„Lösungen“ Ordner,Festgelegte Ordnerstruktur,42,250,

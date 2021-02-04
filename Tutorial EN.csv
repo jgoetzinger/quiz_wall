@@ -1,0 +1,15 @@
+Question,Answer A (Solution),Answer B,Answer C,Answer D,Points,Solution File
+How to escape full screen mode?,F11 or  Escape,Taskmanager,right click,impossible,50,
+How do I know which teams turn it is?,font colour,you have to remember,nobody knows,flashing animations,50,
+How to create own questions?,"save table as .csv file
+(See Tutorial EN.csv)",impossible,Word document,42,100,
+How to mark the correct answer in the .csv file?,the first one is the correct one,mark with *,mark with !,42,100,
+How to change the quiz name?,change the name of the quiz .csv file,F12,change the first field in the quiz csv file,42,100,
+How many different point categories are possible?,5,3,7,doesn't matter,200,
+How can I set the point categories?,multiples of 50,doesn't matter,multiples of 10,multiples of 42,200,
+How many questions per categories are possible?,10,5,20,doesn't matter,200,
+Can I use an audio solution file?,yes,no,nope,impossible,250,solutions/demo.mp3
+Can I use a video solution file?,yes,no,nope,impossible,250,solutions/sinus.mp4
+Can I use a image solution file?,yes,no,nope,impossible,250,solutions/png_example.png
+Do I have to use a special image format?,no,yes,only 16:9,sure,250,solutions/square.jpg
+Where are the solution files?,path in .csv file,„solutions“ folder,fixed folder structure,42,250,
