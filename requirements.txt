@@ -1,0 +1,2 @@
+python_vlc==3.0.7110
+Pillow==8.0.1
