@@ -1,0 +1,7 @@
+extra/*
+build/*
+dist/*
+local_vlc/*
+*.spec
+todo.txt
+__pycache__*
